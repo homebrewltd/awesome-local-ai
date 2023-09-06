@@ -1,14 +1,17 @@
 # Awesome Local AI
-This is an awesome collection of local AI tools
+This is an awesome collection of open source, local AI tools and solutions.
 
-## Open Source
+## Platforms / full solutions
 
 ## UIs
 
-## Inference Backends
+## Inference
 
-## Training Backends
+## Training
 
+## Agents
 
-## Paid
-...
+## Developer tools
+
+## Community
+
