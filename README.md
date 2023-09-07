@@ -21,7 +21,6 @@
 * [JanAI](https://github.com/janhq/jan.git) -Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
 * [oobabooga](https://github.com/oobabooga/text-generation-webui)| -A Gradio web UI for Large Language Models
 * [LM Studio](https://lmstudio.ai/) -Discover, download, and run local LLMs.
-* [credalai](https://www.credal.ai/) -The safest way to use AI with your data
 * [LocalAI](https://github.com/go-skynet/LocalAI) -LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. 
 * [FireworksAI](https://app.fireworks.ai/) -Experience the world's fastest LLM inference platform deploy your own at no additional cost. 
 * [faradav](https://faraday.dev/) -Chat with AI Characters Offline, Runs locally, Zero-configuration. 
@@ -37,7 +36,7 @@
 
 ## Platforms / full solutions
 * [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) -H2OGPT The fastest, most accurate AI Cloud Platform
-* []()
+* [BentoML](https://github.com/bentoml/BentoML)
 
 ## Developer tools
 * [Pinecone](https://www.pinecone.io) -Long-Term Memory for AI
