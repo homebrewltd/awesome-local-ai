@@ -14,14 +14,27 @@
 * [LM Studio](https://lmstudio.ai/) -Discover, download, and run local LLMs.
 * [LocalAI](https://github.com/go-skynet/LocalAI) -LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
 * [FireworksAI](https://app.fireworks.ai/) -Experience the world's fastest LLM inference platform deploy your own at no additional cost.
-* [faraday](https://faraday.dev/) -Chat with AI Characters Offline, Runs locally, Zero-configuration.
+* [faradav](https://faraday.dev/) -Chat with AI Characters Offline, Runs locally, Zero-configuration.
 * [LLMFarm](https://github.com/guinmoon/LLMFarm) -llama and other large language models on iOS and MacOS offline using GGML library.
 * [FuLLMetalAi](https://www.fullmetal.ai/) -Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs)
 * [petals](https://github.com/bigscience-workshop/petals) -un LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 * [koboldcpp](https://github.com/LostRuins/koboldcpp) -A simple one-file way to run various GGML models with KoboldAI's UI
-* []()
-* []()
-* []()
+* [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
+* [GPT4All](https://gpt4all.io)
+* [LlamaChat](https://llamachat.app/)
+
+## Local LLM
+*[LLaMA]
+*[Falcon]
+*[Dolly]
+*[Guanaco]
+*[BloomZ]
+*[Alpaca]
+*[OpenChatKit]
+*[GPT4ALL]
+*[Vicuna]
+*[Flan-T5]
+
 ## Platforms / full solutions
 * [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) -H2OGPT The fastest, most accurate AI Cloud Platform
 * []()
