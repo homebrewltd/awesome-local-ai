@@ -7,29 +7,36 @@
   Your contributions are always welcome!!
 
 
-## Inference
+## Inference Engine
 
-| Repository | Description | model formats | CPU/GPU Support | Platform Type
-|------------|-----------|------------|------------|------------|
+| Repository | Description | Supported model formats | CPU/GPU Support | UI | Platform Type
+|------------|-----------|------------|------------|------------|------------|
 [JanAI](https://github.com/janhq/jan.git)| -Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team. |
 [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |-Stable Diffusion web UI. |
+[llama.cpp](https://github.com/ggerganov/llama.cpp) |-Inference of LLaMA model in pure C/C++ | GGML/GGUF
+[koboldcpp](https://github.com/LostRuins/koboldcpp)| -A simple one-file way to run various GGML models with KoboldAI's UI | GGML| | Available | conversational 
 [oobabooga](https://github.com/oobabooga/text-generation-webui)| -A Gradio web UI for Large Language Models. |
 [LoLLMS](https://github.com/ParisNeo/lollms-webui)| -Lord of Large Language Models Web User Interface. |
-[LM Studio](https://lmstudio.ai/)| -Discover, download, and run local LLMs. |
-[LocalAI](https://github.com/go-skynet/LocalAI)| -LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. |
-[FireworksAI](https://app.fireworks.ai/)| -Experience the world's fastest LLM inference platform deploy your own at no additional cost. |
-[faradav](https://faraday.dev/)| -Chat with AI Characters Offline, Runs locally, Zero-configuration. |
 [LLMFarm](https://github.com/guinmoon/LLMFarm)| -llama and other large language models on iOS and MacOS offline using GGML library.
 [FuLLMetalAi](https://www.fullmetal.ai/)| -Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs)
-[petals](https://github.com/bigscience-workshop/petals)| -un LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-[koboldcpp](https://github.com/LostRuins/koboldcpp)| -A simple one-file way to run various GGML models with KoboldAI's UI
-[LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)| -LLM as a Chatbot Service
-[GPT4All](https://gpt4all.io)| -A free-to-use, locally running, privacy-aware chatbot
-[LlamaChat](https://llamachat.app/) |-LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
+[petals](https://github.com/bigscience-workshop/petals)| -Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 [BentoML](https://www.bentoml.com/) |-BentoML is the platform for software engineers to build AI products.
-[llama.cpp](https://github.com/ggerganov/llama.cpp) |-Inference of LLaMA model in pure C/C++
-[ExLlama](https://github.com/turboderp/exllama) |-A more memory-efficient rewrite of the HF transformers implementation of Llama
+[ExLlama](https://github.com/turboderp/exllama) |-A more memory-efficient rewrite of the HF transformers implementation of Llama | GPTQ |GPU
 [vLLM](https://github.com/vllm-project/vllm) |-vLLM is a fast and easy-to-use library for LLM inference and serving.
+
+## Inference UI
+* [JanAI](https://github.com/janhq/jan.git) -Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
+* [LM Studio](https://lmstudio.ai/) -Discover, download, and run local LLMs. 
+* [LocalAI](https://github.com/go-skynet/LocalAI) -LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. 
+* [FireworksAI](https://app.fireworks.ai/) -Experience the world's fastest LLM inference platform deploy your own at no additional cost. 
+* [faradav](https://faraday.dev/) -Chat with AI Characters Offline, Runs locally, Zero-configuration. 
+* [GPT4All](https://gpt4all.io) -A free-to-use, locally running, privacy-aware chatbot
+* [LlamaChat](https://llamachat.app/) -LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
+* [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) -LLM as a Chatbot Service
+
+
+
+
 
 
 ## Platforms / full solutions
