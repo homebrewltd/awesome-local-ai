@@ -7,7 +7,7 @@
   Your contributions are always welcome!!
 
 ## Inference
-* [JanAI](https://github.com/ajenti/ajenti) -Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
+* [JanAI](https://github.com/janhq/jan.git) -Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
 * [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) -Stable Diffusion web UI.
 * [oobabooga](https://github.com/oobabooga/text-generation-webui) -A Gradio web UI for Large Language Models.
 * [LoLLMS](https://github.com/ParisNeo/lollms-webui) -Lord of Large Language Models Web User Interface.
