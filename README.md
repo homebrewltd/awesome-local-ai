@@ -19,9 +19,9 @@
 * [FuLLMetalAi](https://www.fullmetal.ai/) -Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs)
 * [petals](https://github.com/bigscience-workshop/petals) -un LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 * [koboldcpp](https://github.com/LostRuins/koboldcpp) -A simple one-file way to run various GGML models with KoboldAI's UI
-* [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)
-* [GPT4All](https://gpt4all.io)
-* [LlamaChat](https://llamachat.app/)
+* [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) -LLM as a Chatbot Service
+* [GPT4All](https://gpt4all.io) -A free-to-use, locally running, privacy-aware chatbot
+* [LlamaChat](https://llamachat.app/) -LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
 
 ## Local LLM
 * [LLaMA](https://ai.meta.com/llama/)
