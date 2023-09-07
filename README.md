@@ -26,10 +26,10 @@
 [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot)| -LLM as a Chatbot Service
 [GPT4All](https://gpt4all.io)| -A free-to-use, locally running, privacy-aware chatbot
 [LlamaChat](https://llamachat.app/) |-LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
-[BentoML]()
-[llama.cpp]()
-[ExLlama]()
-[vLLM]()
+[BentoML](https://www.bentoml.com/) |-BentoML is the platform for software engineers to build AI products.
+[llama.cpp](https://github.com/ggerganov/llama.cpp) |-Inference of LLaMA model in pure C/C++
+[ExLlama](https://github.com/turboderp/exllama) |-A more memory-efficient rewrite of the HF transformers implementation of Llama
+[vLLM](https://github.com/vllm-project/vllm) |-vLLM is a fast and easy-to-use library for LLM inference and serving.
 
 
 ## Platforms / full solutions
