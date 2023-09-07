@@ -24,16 +24,13 @@
 * [LlamaChat](https://llamachat.app/)
 
 ## Local LLM
-* [LLaMA]()
-* [Falcon]()
-* [Dolly]()
-* [Guanaco]()
-* [BloomZ]()
-* [Alpaca]()
-* [OpenChatKit]()
-* [GPT4ALL]()
-* [Vicuna]()
-* [Flan-T5]()
+* [LLaMA](https://ai.meta.com/llama/)
+* [Falcon](https://falconllm.tii.ae/)
+* [Guanaco](https://huggingface.co/JosephusCheung/Guanaco)
+* [BloomZ](https://huggingface.co/bigscience/bloomz)
+* [OpenChatKit](https://openchatkit.net/)
+* [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)
+
 
 ## Platforms / full solutions
 * [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) -H2OGPT The fastest, most accurate AI Cloud Platform
@@ -52,15 +49,14 @@
 * [AgentRunner.ai](https://www.agentrunner.ai)
 * []()
 ## Developer tools
-* [Pinecone](https://www.pinecone.io)
-* [PoplarML](https://www.poplarml.com)
-* [Datature](https://datature.io)
-* [One AI](https://www.oneai.com/)
-* [MarsAi](https://www.marsx.dev)
-* [Gooey.AI](https://gooey.ai/)
-* [Mixo.io](https://mixo.io/?via=futurepedia)
-* [Safurai](https://www.safurai.com)
-* [GitFluence](https://www.gitfluence.com)
+* [Pinecone](https://www.pinecone.io) -Long-Term Memory for AI
+* [PoplarML](https://www.poplarml.com) -PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
+* [Datature](https://datature.io) -The All-in-One Platform to Build and Deploy Vision AI 
+* [One AI](https://www.oneai.com/) -MAKING GENERATIVE AI BUSINESS-READY
+* [Gooey.AI](https://gooey.ai/) -Create Your Own No Code AI Workflows
+* [Mixo.io](https://mixo.io/?via=futurepedia) -AI website builder
+* [Safurai](https://www.safurai.com) -AI Code Assistant that saves you time in changing, optimizing, and searching code.
+* [GitFluence](https://www.gitfluence.com) -The AI-driven solution that helps you quickly find the right command. Get started with Git Command Generator today and save time.
 * []()
 * []()
 ## Training
