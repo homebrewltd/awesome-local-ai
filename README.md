@@ -16,6 +16,8 @@
 [LoLLMS](https://github.com/ParisNeo/lollms)| -Lord of Large Language Models Web User Interface. | Nearly ALL |Both |✅ |Text-Gen
 [ExLlama](https://github.com/turboderp/exllama) |-A more memory-efficient rewrite of the HF transformers implementation of Llama | GPTQ |GPU| ❌ |Text-Gen
 [vLLM](https://github.com/vllm-project/vllm) |-vLLM is a fast and easy-to-use library for LLM inference and serving. |GGUF|Both |❌|Text-Gen
+[CTransformers](https://github.com/marella/ctransformers) |-Python bindings for the Transformer models implemented in C/C++ using GGML library|GGML/GPTQ |Both| ❌|Text-Gen
+[llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | -Python bindings for llama.cpp|gguf|Both | ❌|Text-Gen
 
 ## Inference UI
 * [JanAI](https://github.com/janhq/jan.git) -Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
