@@ -76,11 +76,8 @@
 * [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 
 ## Training
-* []()
-* []()
-* []()
-* []()
-* []()
+* [FastChat](https://github.com/lm-sys/FastChat)
+
 ## Community
 * [LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 * [singularity](https://www.reddit.com/r/singularity/)
