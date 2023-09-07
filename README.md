@@ -88,3 +88,7 @@
 * [StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
 * [HugginFace](https://discord.gg/hugging-face-879548962464493619)
 * [JanAI](https://discord.gg/WWjdgYw9Fa)
+* [oobabooga](https://www.reddit.com/r/Oobabooga/)
+* [GPT4](https://www.reddit.com/r/GPT4/)
+* [Artificial Intelligence](https://www.reddit.com/r/artificial/)
+
