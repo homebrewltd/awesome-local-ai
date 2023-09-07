@@ -11,15 +11,12 @@
 
 | Repository | Description | Supported model formats | CPU/GPU Support | UI | Platform Type
 |------------|-----------|------------|------------|------------|------------|
-[llama.cpp](https://github.com/ggerganov/llama.cpp) |-Inference of LLaMA model in pure C/C++ | GGML/GGUF
-[koboldcpp](https://github.com/LostRuins/koboldcpp)| -A simple one-file way to run various GGML models with KoboldAI's UI | GGML| | Available | conversational 
-[oobabooga](https://github.com/oobabooga/text-generation-webui)| -A Gradio web UI for Large Language Models. |
-[LoLLMS](https://github.com/ParisNeo/lollms-webui)| -Lord of Large Language Models Web User Interface. |
-[petals](https://github.com/bigscience-workshop/petals)| -Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-[BentoML](https://www.bentoml.com/) |-BentoML is the platform for software engineers to build AI products.
-[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)| -Stable Diffusion web UI.
-[ExLlama](https://github.com/turboderp/exllama) |-A more memory-efficient rewrite of the HF transformers implementation of Llama | GPTQ |GPU
-[vLLM](https://github.com/vllm-project/vllm) |-vLLM is a fast and easy-to-use library for LLM inference and serving.
+[llama.cpp](https://github.com/ggerganov/llama.cpp) |-Inference of LLaMA model in pure C/C++ | GGML/GGUF | Both | ❌ | Text-Gen
+[koboldcpp](https://github.com/LostRuins/koboldcpp)| -A simple one-file way to run various GGML models with KoboldAI's UI | GGML| Both| ✅| Text-Gen
+[oobabooga](https://github.com/oobabooga/text-generation-webui)| -A Gradio web UI for Large Language Models. | GPTQ/GGML/GGUF | Both |✅| Text-Gen 
+[LoLLMS](https://github.com/ParisNeo/lollms)| -Lord of Large Language Models Web User Interface. | Nearly ALL |Both |✅ |Text-Gen
+[ExLlama](https://github.com/turboderp/exllama) |-A more memory-efficient rewrite of the HF transformers implementation of Llama | GPTQ |GPU| ❌ |Text-Gen
+[vLLM](https://github.com/vllm-project/vllm) |-vLLM is a fast and easy-to-use library for LLM inference and serving. |GGUF|Both |❌|Text-Gen
 
 ## Inference UI
 * [JanAI](https://github.com/janhq/jan.git) -Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
@@ -33,6 +30,8 @@
 * [LlamaChat](https://llamachat.app/) -LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
 * [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) -LLM as a Chatbot Service
 * [FuLLMetalAi](https://www.fullmetal.ai/) -Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs)
+* [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) -Stable Diffusion web UI.
+* [petals](https://github.com/bigscience-workshop/petals)| -Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
 
 
@@ -62,6 +61,7 @@
 * [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 * [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 * [trypromptly](https://trypromptly.com/) -Create AI Apps & Chatbots in Minutes
+* [BentoML](https://www.bentoml.com/) |-BentoML is the platform for software engineers to build AI products.
 
 ## Agents
 * [SuperAGI](https://superagi.com/) -Opensource AGI Infrastructure
