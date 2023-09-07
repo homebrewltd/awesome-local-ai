@@ -31,20 +31,13 @@
 * [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) -LLM as a Chatbot Service
 * [FuLLMetalAi](https://www.fullmetal.ai/) -Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs)
 * [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) -Stable Diffusion web UI.
-* [petals](https://github.com/bigscience-workshop/petals)| -Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-
-
-
-
+* [petals](https://github.com/bigscience-workshop/petals) -Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
 
 ## Platforms / full solutions
 * [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) -H2OGPT The fastest, most accurate AI Cloud Platform
 * []()
-* []()
-* []()
-* []()
-* 
+
 ## Developer tools
 * [Pinecone](https://www.pinecone.io) -Long-Term Memory for AI
 * [PoplarML](https://www.poplarml.com) -PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
@@ -77,6 +70,7 @@
 
 ## Training
 * [FastChat](https://github.com/lm-sys/FastChat)
+* 
 
 ## Community
 * [LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
