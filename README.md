@@ -39,15 +39,6 @@
 * []()
 * []()
 * 
-## Agents
-* [SuperAGI](https://superagi.com/) -Opensource AGI Infrastructure
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) -An experimental open-source attempt to make GPT-4 fully autonomous.
-* [BabyAGI](https://github.com/yoheinakajima/babyagi)
-* [AgentGPT](https://agentgpt.reworkd.ai/) -Assemble, configure, and deploy autonomous AI Agents in your browser.
-* [HyperWrite](https://www.hyperwriteai.com/)
-* [AI Agents](https://aiagent.app/)
-* [AgentRunner.ai](https://www.agentrunner.ai)
-* []()
 ## Developer tools
 * [Pinecone](https://www.pinecone.io) -Long-Term Memory for AI
 * [PoplarML](https://www.poplarml.com) -PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
@@ -57,8 +48,25 @@
 * [Mixo.io](https://mixo.io/?via=futurepedia) -AI website builder
 * [Safurai](https://www.safurai.com) -AI Code Assistant that saves you time in changing, optimizing, and searching code.
 * [GitFluence](https://www.gitfluence.com) -The AI-driven solution that helps you quickly find the right command. Get started with Git Command Generator today and save time.
-* []()
-* []()
+* [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
+* [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
+* [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
+* [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
+* [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
+* [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
+
+## Agents
+* [SuperAGI](https://superagi.com/) -Opensource AGI Infrastructure
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) -An experimental open-source attempt to make GPT-4 fully autonomous.
+* [BabyAGI](https://github.com/yoheinakajima/babyagi)
+* [AgentGPT](https://agentgpt.reworkd.ai/) -Assemble, configure, and deploy autonomous AI Agents in your browser.
+* [HyperWrite](https://www.hyperwriteai.com/)
+* [AI Agents](https://aiagent.app/)
+* [AgentRunner.ai](https://www.agentrunner.ai)
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+* [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
+* [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
+
 ## Training
 * []()
 * []()
