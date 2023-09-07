@@ -24,16 +24,16 @@
 * [LlamaChat](https://llamachat.app/)
 
 ## Local LLM
-*[LLaMA]()
-*[Falcon]()
-*[Dolly]()
-*[Guanaco]()
-*[BloomZ]()
-*[Alpaca]()
-*[OpenChatKit]()
-*[GPT4ALL]()
-*[Vicuna]()
-*[Flan-T5]()
+* [LLaMA]()
+* [Falcon]()
+* [Dolly]()
+* [Guanaco]()
+* [BloomZ]()
+* [Alpaca]()
+* [OpenChatKit]()
+* [GPT4ALL]()
+* [Vicuna]()
+* [Flan-T5]()
 
 ## Platforms / full solutions
 * [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) -H2OGPT The fastest, most accurate AI Cloud Platform
