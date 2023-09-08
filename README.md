@@ -77,6 +77,14 @@
 * [Alpa](https://github.com/alpa-projects/alpa) - Alpa is a system for training and serving large-scale neural networks.
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 
+## LLM Leaderboard
+* [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released.
+* [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.
+* [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models
+* [LLM-Leaderboard-streamlit](https://llm-leaderboard.streamlit.app/) - A joint community effort to create one central leaderboard for LLMs.
+* [lmsys.org](https://chat.lmsys.org/) - Benchmarking LLMs in the Wild with Elo Ratings
+
+
 ## Research
 - Attention Is All You Need (2017): Presents the original transformer model. it helps with sequence-to-sequence tasks, such as machine translation. [[Paper]](https://arxiv.org/abs/1706.03762)
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018): Helps with language modeling and prediction tasks. [[Paper]](https://arxiv.org/abs/2307.00526)
