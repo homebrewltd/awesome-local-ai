@@ -11,52 +11,52 @@
 
 | Repository | Description | Supported model formats | CPU/GPU Support | UI | Platform Type
 |------------|-----------|------------|------------|------------|------------|
-[llama.cpp](https://github.com/ggerganov/llama.cpp) |-Inference of LLaMA model in pure C/C++ | GGML/GGUF | Both | ❌ | Text-Gen
-[koboldcpp](https://github.com/LostRuins/koboldcpp)| -A simple one-file way to run various GGML models with KoboldAI's UI | GGML| Both| ✅| Text-Gen
-[LoLLMS](https://github.com/ParisNeo/lollms)| -Lord of Large Language Models Web User Interface. | Nearly ALL |Both |✅ |Text-Gen
-[ExLlama](https://github.com/turboderp/exllama) |-A more memory-efficient rewrite of the HF transformers implementation of Llama | GPTQ |GPU| ❌ |Text-Gen
-[vLLM](https://github.com/vllm-project/vllm) |-vLLM is a fast and easy-to-use library for LLM inference and serving. |GGUF|Both |❌|Text-Gen
-[CTransformers](https://github.com/marella/ctransformers) |-Python bindings for the Transformer models implemented in C/C++ using GGML library|GGML/GPTQ |Both| ❌|Text-Gen
-[llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | -Python bindings for llama.cpp|gguf|Both | ❌|Text-Gen
+[llama.cpp](https://github.com/ggerganov/llama.cpp) |- Inference of LLaMA model in pure C/C++ | GGML/GGUF | Both | ❌ | Text-Gen
+[koboldcpp](https://github.com/LostRuins/koboldcpp)| - A simple one-file way to run various GGML models with KoboldAI's UI | GGML| Both| ✅| Text-Gen
+[LoLLMS](https://github.com/ParisNeo/lollms)| - Lord of Large Language Models Web User Interface. | Nearly ALL |Both |✅ |Text-Gen
+[ExLlama](https://github.com/turboderp/exllama) |- A more memory-efficient rewrite of the HF transformers implementation of Llama | AutoGPTQ/GPTQ |GPU| ❌ |Text-Gen
+[vLLM](https://github.com/vllm-project/vllm) |- vLLM is a fast and easy-to-use library for LLM inference and serving. |GGML/GGUF|Both |❌|Text-Gen
+[CTransformers](https://github.com/marella/ctransformers) |- Python bindings for the Transformer models implemented in C/C++ using GGML library|GGML/GPTQ |Both| ❌|Text-Gen
+[llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | - Python bindings for llama.cpp|gguf|Both | ❌|Text-Gen
 
 ## Inference UI
-* [JanAI](https://github.com/janhq/jan.git) -Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
-* [oobabooga](https://github.com/oobabooga/text-generation-webui)| -A Gradio web UI for Large Language Models
-* [LM Studio](https://lmstudio.ai/) -Discover, download, and run local LLMs.
-* [LocalAI](https://github.com/go-skynet/LocalAI) -LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. 
-* [FireworksAI](https://app.fireworks.ai/) -Experience the world's fastest LLM inference platform deploy your own at no additional cost. 
-* [faradav](https://faraday.dev/) -Chat with AI Characters Offline, Runs locally, Zero-configuration. 
-* [GPT4All](https://gpt4all.io) -A free-to-use, locally running, privacy-aware chatbot
-* [LLMFarm](https://github.com/guinmoon/LLMFarm) -llama and other large language models on iOS and MacOS offline using GGML library.
-* [LlamaChat](https://llamachat.app/) -LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
-* [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) -LLM as a Chatbot Service
-* [FuLLMetalAi](https://www.fullmetal.ai/) -Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs)
-* [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) -Stable Diffusion web UI
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) -A powerful and modular stable diffusion GUI with a graph/nodes interface.
-* [petals](https://github.com/bigscience-workshop/petals) -Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+* [JanAI](https://github.com/janhq/jan.git) - Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
+* [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models
+* [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
+* [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing. 
+* [FireworksAI](https://app.fireworks.ai/) - Experience the world's fastest LLM inference platform deploy your own at no additional cost. 
+* [faradav](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration. 
+* [GPT4All](https://gpt4all.io) - A free-to-use, locally running, privacy-aware chatbot
+* [LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other large language models on iOS and MacOS offline using GGML library.
+* [LlamaChat](https://llamachat.app/) - LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
+* [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
+* [FuLLMetalAi](https://www.fullmetal.ai/) - Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs)
+* [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
+* [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
 
 ## Platforms / full solutions
-* [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) -H2OGPT The fastest, most accurate AI Cloud Platform
-* [BentoML](https://github.com/bentoml/BentoML)
+* [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) - H2OGPT The fastest, most accurate AI Cloud Platform
+* [BentoML](https://github.com/bentoml/BentoML) - BentoML is a framework for building reliable, scalable, and cost-efficient AI applications.
 
 ## Developer tools
-* [Pinecone](https://www.pinecone.io) -Long-Term Memory for AI
-* [PoplarML](https://www.poplarml.com) -PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
-* [Datature](https://datature.io) -The All-in-One Platform to Build and Deploy Vision AI 
-* [One AI](https://www.oneai.com/) -MAKING GENERATIVE AI BUSINESS-READY
-* [Gooey.AI](https://gooey.ai/) -Create Your Own No Code AI Workflows
-* [Mixo.io](https://mixo.io/?via=futurepedia) -AI website builder
-* [Safurai](https://www.safurai.com) -AI Code Assistant that saves you time in changing, optimizing, and searching code.
-* [GitFluence](https://www.gitfluence.com) -The AI-driven solution that helps you quickly find the right command. Get started with Git Command Generator today and save time.
+* [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI
+* [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
+* [Datature](https://datature.io) - The All-in-One Platform to Build and Deploy Vision AI 
+* [One AI](https://www.oneai.com/) - MAKING GENERATIVE AI BUSINESS-READY
+* [Gooey.AI](https://gooey.ai/) - Create Your Own No Code AI Workflows
+* [Mixo.io](https://mixo.io/?via=futurepedia) - AI website builder
+* [Safurai](https://www.safurai.com) - AI Code Assistant that saves you time in changing, optimizing, and searching code.
+* [GitFluence](https://www.gitfluence.com) - The AI-driven solution that helps you quickly find the right command. Get started with Git Command Generator today and save time.
 * [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 * [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 * [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 * [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 * [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 * [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
-* [trypromptly](https://trypromptly.com/) -Create AI Apps & Chatbots in Minutes
-* [BentoML](https://www.bentoml.com/) |-BentoML is the platform for software engineers to build AI products.
+* [trypromptly](https://trypromptly.com/) - Create AI Apps & Chatbots in Minutes
+* [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
 
 ## Agents
 * [SuperAGI](https://superagi.com/) -Opensource AGI Infrastructure
@@ -74,6 +74,20 @@
 * [FastChat](https://github.com/lm-sys/FastChat)
 * 
 
+## Research
+- Attention Is All You Need (2017): Presents the original transformer model. it helps with sequence-to-sequence tasks, such as machine translation. [[Paper]](https://arxiv.org/abs/1706.03762)
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018): Helps with language modeling and prediction tasks. [[Paper]](https://arxiv.org/abs/2307.00526)
+- FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (2022): Mechanism to improve transformers. [[paper]](https://arxiv.org/abs/2205.14135)
+- Improving Language Understanding by Generative Pre-Training (2019): Paper is authored by OpenAI on GPT. [[paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- Cramming: Training a Language Model on a Single GPU in One Day (2022): Paper focus on a way too increase the performance by using minimum computing power. [[paper]](https://arxiv.org/abs/2212.14034)
+- LaMDA: Language Models for Dialog Applications (2022): LaMDA is a family of Transformer-based neural language models by Google. [[paper]](https://arxiv.org/abs/2201.08239)
+- Training language models to follow instructions with human feedback (2022): Use human feedback to align LLMs. [[paper]](https://arxiv.org/abs/2203.02155)
+- TurboTransformers: An Efficient GPU Serving System For Transformer Models (PPoPP'21) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3437801.3441578)
+- Fast Distributed Inference Serving for Large Language Models (arXiv'23) [[paper]](https://arxiv.org/pdf/2305.05920.pdf)
+- An Efficient Sparse Inference Software Accelerator for Transformer-based Language Models on CPUs (arXiv'23) [[paper]](https://arxiv.org/abs/2306.16601)
+- Accelerating LLM Inference with Staged Speculative Decoding (arXiv'23) [[paper]](https://arxiv.org/abs/2308.04623)
+- ZeRO: Memory optimizations Toward Training Trillion Parameter Models (SC'20) [[paper]](https://ieeexplore.ieee.org/abstract/document/9355301)
+- TensorGPT: Efficient Compression of the Embedding Layer in LLMs based on the Tensor-Train Decomposition 2023 [[Paper]](https://arxiv.org/abs/2307.00526)
 ## Community
 * [LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)
 * [singularity](https://www.reddit.com/r/singularity/)
