@@ -17,7 +17,7 @@
 [ExLlama](https://github.com/turboderp/exllama) |- A more memory-efficient rewrite of the HF transformers implementation of Llama | AutoGPTQ/GPTQ |GPU| ❌ |Python/C++ |Text-Gen
 [vLLM](https://github.com/vllm-project/vllm) |- vLLM is a fast and easy-to-use library for LLM inference and serving. |GGML/GGUF|Both |❌|Python |Text-Gen
 [CTransformers](https://github.com/marella/ctransformers) |- Python bindings for the Transformer models implemented in C/C++ using GGML library|GGML/GPTQ |Both| ❌| C/C++|Text-Gen
-[llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | - Python bindings for llama.cpp|gguf|Both | ❌|Python|Text-Gen
+[llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | - Python bindings for llama.cpp|GGUF|Both | ❌|Python|Text-Gen
 
 ## Inference UI
 * [JanAI](https://github.com/janhq/jan.git) - Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
