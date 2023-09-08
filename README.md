@@ -9,15 +9,15 @@
 
 ## Inference Engine
 
-| Repository | Description | Supported model formats | CPU/GPU Support | UI | Platform Type
-|------------|-----------|------------|------------|------------|------------|
-[llama.cpp](https://github.com/ggerganov/llama.cpp) |- Inference of LLaMA model in pure C/C++ | GGML/GGUF | Both | ❌ | Text-Gen
-[koboldcpp](https://github.com/LostRuins/koboldcpp)| - A simple one-file way to run various GGML models with KoboldAI's UI | GGML| Both| ✅| Text-Gen
-[LoLLMS](https://github.com/ParisNeo/lollms)| - Lord of Large Language Models Web User Interface. | Nearly ALL |Both |✅ |Text-Gen
-[ExLlama](https://github.com/turboderp/exllama) |- A more memory-efficient rewrite of the HF transformers implementation of Llama | AutoGPTQ/GPTQ |GPU| ❌ |Text-Gen
-[vLLM](https://github.com/vllm-project/vllm) |- vLLM is a fast and easy-to-use library for LLM inference and serving. |GGML/GGUF|Both |❌|Text-Gen
-[CTransformers](https://github.com/marella/ctransformers) |- Python bindings for the Transformer models implemented in C/C++ using GGML library|GGML/GPTQ |Both| ❌|Text-Gen
-[llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | - Python bindings for llama.cpp|gguf|Both | ❌|Text-Gen
+| Repository | Description | Supported model formats | CPU/GPU Support | UI | language | Platform Type
+|------------|-----------|------------|------------|------------|------------|------------|
+[llama.cpp](https://github.com/ggerganov/llama.cpp) |- Inference of LLaMA model in pure C/C++ | GGML/GGUF | Both | ❌ |C/C++ | Text-Gen
+[koboldcpp](https://github.com/LostRuins/koboldcpp)| - A simple one-file way to run various GGML models with KoboldAI's UI | GGML| Both| ✅|C/C++ | Text-Gen
+[LoLLMS](https://github.com/ParisNeo/lollms)| - Lord of Large Language Models Web User Interface. | Nearly ALL |Both |✅ | Python |Text-Gen
+[ExLlama](https://github.com/turboderp/exllama) |- A more memory-efficient rewrite of the HF transformers implementation of Llama | AutoGPTQ/GPTQ |GPU| ❌ |Python/C++ |Text-Gen
+[vLLM](https://github.com/vllm-project/vllm) |- vLLM is a fast and easy-to-use library for LLM inference and serving. |GGML/GGUF|Both |❌|Python |Text-Gen
+[CTransformers](https://github.com/marella/ctransformers) |- Python bindings for the Transformer models implemented in C/C++ using GGML library|GGML/GPTQ |Both| ❌| C/C++|Text-Gen
+[llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | - Python bindings for llama.cpp|gguf|Both | ❌|Python|Text-Gen
 
 ## Inference UI
 * [JanAI](https://github.com/janhq/jan.git) - Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
@@ -59,20 +59,23 @@
 * [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
 
 ## Agents
-* [SuperAGI](https://superagi.com/) -Opensource AGI Infrastructure
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) -An experimental open-source attempt to make GPT-4 fully autonomous.
-* [BabyAGI](https://github.com/yoheinakajima/babyagi)
+* [SuperAGI](https://superagi.com/) - Opensource AGI Infrastructure
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [BabyAGI](https://github.com/yoheinakajima/babyagi) - Baby AGI is an autonomous AI agent developed using Python that operates through OpenAI and Pinecone APIs.
 * [AgentGPT](https://agentgpt.reworkd.ai/) -Assemble, configure, and deploy autonomous AI Agents in your browser.
-* [HyperWrite](https://www.hyperwriteai.com/)
-* [AI Agents](https://aiagent.app/)
-* [AgentRunner.ai](https://www.agentrunner.ai)
+* [HyperWrite](https://www.hyperwriteai.com/) - HyperWrite helps you work smarter, faster, and with ease.
+* [AI Agents](https://aiagent.app/) - AI Agent that Power Up Your Productivity
+* [AgentRunner.ai](https://www.agentrunner.ai) - Leverage the power of GPT-4 to create and train fully autonomous AI agents.
 * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 * [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
 * [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 
 ## Training
-* [FastChat](https://github.com/lm-sys/FastChat)
-* 
+* [FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models.
+* [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. 
+* [BMTrain](https://github.com/OpenBMB/BMTrain) - Efficient Training for Big Models.
+* [Alpa](https://github.com/alpa-projects/alpa) - Alpa is a system for training and serving large-scale neural networks.
+* [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 
 ## Research
 - Attention Is All You Need (2017): Presents the original transformer model. it helps with sequence-to-sequence tasks, such as machine translation. [[Paper]](https://arxiv.org/abs/1706.03762)
