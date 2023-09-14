@@ -18,6 +18,7 @@
 [vLLM](https://github.com/vllm-project/vllm) |- vLLM is a fast and easy-to-use library for LLM inference and serving. |GGML/GGUF|Both |❌|Python |Text-Gen
 [CTransformers](https://github.com/marella/ctransformers) |- Python bindings for the Transformer models implemented in C/C++ using GGML library|GGML/GPTQ |Both| ❌| C/C++|Text-Gen
 [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | - Python bindings for llama.cpp|GGUF|Both | ❌|Python|Text-Gen
+[llama2.rs](https://github.com/srush/llama2.rs) | - A fast llama2 decoder in pure Rust |GPTQ|CPU|❌|Rust|Text-Gen
 
 ## Inference UI
 * [JanAI](https://github.com/janhq/jan.git) - Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
