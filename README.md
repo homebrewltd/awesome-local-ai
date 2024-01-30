@@ -1,6 +1,6 @@
 # [Awesome Local AI](https://github.com/janhq/awesome-local-ai) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Local%20AI%20-%20a%20collection%20of%20open%20source,%20local%20AI%20tools%20and%20solutions%20by%20@janframework&url=https://github.com/janhq/awesome-local-ai&hashtags=AI,OpenSource)
 
-**This is an awesome collection of open source, local AI tools and solutions.**
+If you tried [Jan Desktop](https://github.com/janhq/jan?tab=readme-ov-file#download) and liked it, please also check out the following **awesome collection of open source and/or local AI tools and solutions.**
 
 Your contributions are always welcome!
 
@@ -21,7 +21,6 @@ Your contributions are always welcome!
 
 ## Inference UI
 
-- [Jan](https://github.com/janhq/jan.git) - Self-hosted, local, AI Inference Platform that scales from personal use to production deployments for a team.
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
@@ -43,6 +42,7 @@ Your contributions are always welcome!
 
 ## Developer tools
 
+- [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
 - [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
 - [Datature](https://datature.io) - The All-in-One Platform to Build and Deploy Vision AI
