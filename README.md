@@ -73,6 +73,7 @@ Your contributions are always welcome!
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
 
 ## Training
 
