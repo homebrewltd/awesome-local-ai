@@ -15,6 +15,7 @@ Your contributions are always welcome!
 | [LoLLMS](https://github.com/ParisNeo/lollms)                    | - Lord of Large Language Models Web User Interface.                                  | Nearly ALL              | Both            | ✅  | Python     | Text-Gen      |
 | [ExLlama](https://github.com/turboderp/exllama)                 | - A more memory-efficient rewrite of the HF transformers implementation of Llama     | AutoGPTQ/GPTQ           | GPU             | ✅  | Python/C++ | Text-Gen      |
 | [vLLM](https://github.com/vllm-project/vllm)                    | - vLLM is a fast and easy-to-use library for LLM inference and serving.              | GGML/GGUF               | Both            | ❌  | Python     | Text-Gen      |
+| [TGI](https://github.com/huggingface/text-generation-inference)                    | - Large Language Model Text Generation Inference.                 | Safetensors               | Both            | ❌  | Rust     | Text-Gen      |
 | [LmDeploy](https://github.com/InternLM/lmdeploy)                | - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.                | Pytorch / Turbomind     | Both            | ❌  | Python/C++ | Text-Gen      |
 | [Tensorrt-llm](https://github.com/NVIDIA/TensorRT-LLM)          | - Inference efficiently on NVIDIA GPUs                                               | Python / C++ runtimes   | Both            | ❌  | Python/C++ | Text-Gen      |
 | [CTransformers](https://github.com/marella/ctransformers)       | - Python bindings for the Transformer models implemented in C/C++ using GGML library | GGML/GPTQ               | Both            | ❌  | C/C++      | Text-Gen      |
@@ -37,6 +38,8 @@ Your contributions are always welcome!
 - [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+
 
 ## Platforms / full solutions
 
@@ -84,6 +87,8 @@ Your contributions are always welcome!
 - [BMTrain](https://github.com/OpenBMB/BMTrain) - Efficient Training for Big Models.
 - [Alpa](https://github.com/alpa-projects/alpa) - Alpa is a system for training and serving large-scale neural networks.
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+- [Nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
+
 
 ## LLM Leaderboard
 
@@ -115,7 +120,7 @@ Your contributions are always welcome!
 - [singularity](https://www.reddit.com/r/singularity/)
 - [ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
-- [HugginFace](https://discord.gg/hugging-face-879548962464493619)
+- [Hugging Face](https://discord.gg/hugging-face-879548962464493619)
 - [JanAI](https://discord.gg/WWjdgYw9Fa)
 - [oobabooga](https://www.reddit.com/r/Oobabooga/)
 - [GPT4](https://www.reddit.com/r/GPT4/)
