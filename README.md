@@ -38,6 +38,8 @@ Your contributions are always welcome!
 - [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+
 
 ## Platforms / full solutions
 
@@ -87,6 +89,7 @@ Your contributions are always welcome!
 - [Alpa](https://github.com/alpa-projects/alpa) - Alpa is a system for training and serving large-scale neural networks.
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [Ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models.
+- [Nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
 
 ## LLM Leaderboard
 
@@ -118,7 +121,7 @@ Your contributions are always welcome!
 - [singularity](https://www.reddit.com/r/singularity/)
 - [ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
-- [HugginFace](https://discord.gg/hugging-face-879548962464493619)
+- [Hugging Face](https://discord.gg/hugging-face-879548962464493619)
 - [JanAI](https://discord.gg/WWjdgYw9Fa)
 - [oobabooga](https://www.reddit.com/r/Oobabooga/)
 - [GPT4](https://www.reddit.com/r/GPT4/)
