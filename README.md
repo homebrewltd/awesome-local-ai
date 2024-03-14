@@ -6,22 +6,22 @@ Your contributions are always welcome!
 
 ## Inference Engine
 
-| Repository                                                      | Description                                                                          | Supported model formats | CPU/GPU Support | UI  | language   | Platform Type |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------- | --------------- | --- | ---------- | ------------- |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp)             | - Inference of LLaMA model in pure C/C++                                             | GGML/GGUF               | Both            | ❌  | C/C++      | Text-Gen      |
-| [Nitro](https://github.com/janhq/nitro)                         | - 3MB inference engine embeddable in your apps. Uses Llamacpp and more               | Both                    | Both            | ❌  | Text-Gen   |
-| [ollama](https://github.com/jmorganca/ollama)                   | - CLI and local server. Uses Llamacpp                                                | Both                    | Both            | ❌  | Text-Gen   |
-| [koboldcpp](https://github.com/LostRuins/koboldcpp)             | - A simple one-file way to run various GGML models with KoboldAI's UI                | GGML                    | Both            | ✅  | C/C++      | Text-Gen      |
-| [LoLLMS](https://github.com/ParisNeo/lollms)                    | - Lord of Large Language Models Web User Interface.                                  | Nearly ALL              | Both            | ✅  | Python     | Text-Gen      |
-| [ExLlama](https://github.com/turboderp/exllama)                 | - A more memory-efficient rewrite of the HF transformers implementation of Llama     | AutoGPTQ/GPTQ           | GPU             | ✅  | Python/C++ | Text-Gen      |
-| [vLLM](https://github.com/vllm-project/vllm)                    | - vLLM is a fast and easy-to-use library for LLM inference and serving.              | GGML/GGUF               | Both            | ❌  | Python     | Text-Gen      |
-| [TGI](https://github.com/huggingface/text-generation-inference)                    | - Large Language Model Text Generation Inference.                 | Safetensors               | Both            | ❌  | Rust     | Text-Gen      |
-| [LmDeploy](https://github.com/InternLM/lmdeploy)                | - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.                | Pytorch / Turbomind     | Both            | ❌  | Python/C++ | Text-Gen      |
-| [Tensorrt-llm](https://github.com/NVIDIA/TensorRT-LLM)          | - Inference efficiently on NVIDIA GPUs                                               | Python / C++ runtimes   | Both            | ❌  | Python/C++ | Text-Gen      |
-| [CTransformers](https://github.com/marella/ctransformers)       | - Python bindings for the Transformer models implemented in C/C++ using GGML library | GGML/GPTQ               | Both            | ❌  | C/C++      | Text-Gen      |
-| [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | - Python bindings for llama.cpp                                                      | GGUF                    | Both            | ❌  | Python     | Text-Gen      |
-| [llama2.rs](https://github.com/srush/llama2.rs)                 | - A fast llama2 decoder in pure Rust                                                 | GPTQ                    | CPU             | ❌  | Rust       | Text-Gen      |
-| [ExLlamaV2](https://github.com/turboderp/exllamav2)             | - A fast inference library for running LLMs locally on modern consumer-class GPUs    | GPTQ/EXL2               | GPU             | ❌  | Python/C++ | Text-Gen      |
+| Repository                                                      | Description                                                                          | Supported model formats | CPU/GPU Support | UI  | language    | Platform Type |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------- | --------------- | --- | ----------  | ------------- |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp)             | - Inference of LLaMA model in pure C/C++                                             | GGML/GGUF               | Both            | ❌  | C/C++       | Text-Gen      |
+| [Nitro](https://github.com/janhq/nitro)                         | - 3MB inference engine embeddable in your apps. Uses Llamacpp and more               | Both                    | Both            | ❌  | Text-Gen    |
+| [ollama](https://github.com/jmorganca/ollama)                   | - CLI and local server. Uses Llamacpp                                                | Both                    | Both            | ❌  | Text-Gen    |
+| [koboldcpp](https://github.com/LostRuins/koboldcpp)             | - A simple one-file way to run various GGML models with KoboldAI's UI                | GGML                    | Both            | ✅  | C/C++       | Text-Gen      |
+| [LoLLMS](https://github.com/ParisNeo/lollms)                    | - Lord of Large Language Models Web User Interface.                                  | Nearly ALL              | Both            | ✅  | Python      | Text-Gen      |
+| [ExLlama](https://github.com/turboderp/exllama)                 | - A more memory-efficient rewrite of the HF transformers implementation of Llama     | AutoGPTQ/GPTQ           | GPU             | ✅  | Python/C++  | Text-Gen      |
+| [vLLM](https://github.com/vllm-project/vllm)                    | - vLLM is a fast and easy-to-use library for LLM inference and serving.              | GGML/GGUF               | Both            | ❌  | Python      | Text-Gen      |
+| [LmDeploy](https://github.com/InternLM/lmdeploy)                | - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.                | Pytorch / Turbomind     | Both            | ❌  | Python/C++  | Text-Gen      |
+| [Tensorrt-llm](https://github.com/NVIDIA/TensorRT-LLM)          | - Inference efficiently on NVIDIA GPUs                                               | Python / C++ runtimes   | Both            | ❌  | Python/C++  | Text-Gen      |
+| [CTransformers](https://github.com/marella/ctransformers)       | - Python bindings for the Transformer models implemented in C/C++ using GGML library | GGML/GPTQ               | Both            | ❌  | C/C++       | Text-Gen      |
+| [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | - Python bindings for llama.cpp                                                      | GGUF                    | Both            | ❌  | Python      | Text-Gen      |
+| [llama2.rs](https://github.com/srush/llama2.rs)                 | - A fast llama2 decoder in pure Rust                                                 | GPTQ                    | CPU             | ❌  | Rust        | Text-Gen      |
+| [ExLlamaV2](https://github.com/turboderp/exllamav2)             | - A fast inference library for running LLMs locally on modern consumer-class GPUs    | GPTQ/EXL2               | GPU             | ❌  | Python/C++  | Text-Gen      |
+| [LoRAX](https://github.com/predibase/lorax)                     | - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs                | Safetensor / AWQ / GPTQ | GPU             | ❌  | Python/Rust | Text-Gen      |
 
 ## Inference UI
 
@@ -45,6 +45,7 @@ Your contributions are always welcome!
 
 - [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) - H2OGPT The fastest, most accurate AI Cloud Platform
 - [BentoML](https://github.com/bentoml/BentoML) - BentoML is a framework for building reliable, scalable, and cost-efficient AI applications.
+- [Predibase](https://predibase.com/) - Serverless LoRA Fine-Tuning and Serving for LLMs.
 
 ## Developer tools
 
@@ -87,8 +88,8 @@ Your contributions are always welcome!
 - [BMTrain](https://github.com/OpenBMB/BMTrain) - Efficient Training for Big Models.
 - [Alpa](https://github.com/alpa-projects/alpa) - Alpa is a system for training and serving large-scale neural networks.
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+- [Ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models.
 - [Nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
-
 
 ## LLM Leaderboard
 
