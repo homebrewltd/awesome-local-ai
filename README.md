@@ -67,6 +67,9 @@ Your contributions are always welcome!
 - [trypromptly](https://trypromptly.com/) - Create AI Apps & Chatbots in Minutes
 - [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
 
+## User Tools
+- [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+
 ## Agents
 
 - [SuperAGI](https://superagi.com/) - Opensource AGI Infrastructure
