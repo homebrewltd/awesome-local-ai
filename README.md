@@ -25,6 +25,7 @@ Your contributions are always welcome!
 
 ## Inference UI
 
+- [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
@@ -39,7 +40,6 @@ Your contributions are always welcome!
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
-
 
 ## Platforms / full solutions
 
