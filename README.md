@@ -66,6 +66,7 @@ Your contributions are always welcome!
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 - [trypromptly](https://trypromptly.com/) - Create AI Apps & Chatbots in Minutes.
 - [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
+- [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format.
 
 ## Agents
 
