@@ -22,6 +22,7 @@ Your contributions are always welcome!
 | [llama2.rs](https://github.com/srush/llama2.rs)                 | - A fast llama2 decoder in pure Rust                                                 | GPTQ                    | CPU             | ❌  | Rust        | Text-Gen      |
 | [ExLlamaV2](https://github.com/turboderp/exllamav2)             | - A fast inference library for running LLMs locally on modern consumer-class GPUs    | GPTQ/EXL2               | GPU             | ❌  | Python/C++  | Text-Gen      |
 | [LoRAX](https://github.com/predibase/lorax)                     | - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs                | Safetensor / AWQ / GPTQ | GPU             | ❌  | Python/Rust | Text-Gen      |
+| [text-generation-inference](https://github.com/huggingface/text-generation-inference)| - Inference serving toolbox with optimized kernels for each LLM architecture                | Safetensors / AWQ / GPTQ | Both             | ❌  | Python/Rust | Text-Gen      |
 
 ## Inference UI
 
@@ -90,6 +91,8 @@ Your contributions are always welcome!
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [Ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models.
 - [Nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
+- [TRL](https://github.com/huggingface/trl) - Language model alignment with reinforcement learning.
+- [PEFT](https://github.com/huggingface/peft) - Parameter efficient fine-tuning (LoRA, DoRA, model merger and more)
 
 ## LLM Leaderboard
 
