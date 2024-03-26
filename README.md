@@ -27,39 +27,39 @@ Your contributions are always welcome!
 
 ## Inference UI
 
-- [Wordflow](https://github.com/poloclub/wordflow) - Run, share, and discover AI prompts in your browsers
-- [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models
+- [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
+- [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
 - [FireworksAI](https://app.fireworks.ai/) - Experience the world's fastest LLM inference platform deploy your own at no additional cost.
 - [faradav](https://faraday.dev/) - Chat with AI Characters Offline, Runs locally, Zero-configuration.
-- [GPT4All](https://gpt4all.io) - A free-to-use, locally running, privacy-aware chatbot
+- [GPT4All](https://gpt4all.io) - A free-to-use, locally running, privacy-aware chatbot.
 - [LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other large language models on iOS and MacOS offline using GGML library.
 - [LlamaChat](https://llamachat.app/) - LlamaChat allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac.
-- [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
-- [FuLLMetalAi](https://www.fullmetal.ai/) - Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs)
-- [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [LLM as a Chatbot Service](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service.
+- [FuLLMetalAi](https://www.fullmetal.ai/) - Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs).
+- [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
-- [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+- [Wordflow](https://github.com/poloclub/wordflow) - Run, share, and discover AI prompts in your browsers
+- [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
+- [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app.
 - [AI-Mask](https://github.com/pacoccino/ai-mask) - Browser extension to provide model inference to web apps. Backed by web-llm and transformers.js
-
 
 ## Platforms / full solutions
 
-- [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) - H2OGPT The fastest, most accurate AI Cloud Platform
+- [H2OAI](https://h2o.ai/#tabs-320f3fc63d-item-aa19ad7787-tab) - H2OGPT The fastest, most accurate AI Cloud Platform.
 - [BentoML](https://github.com/bentoml/BentoML) - BentoML is a framework for building reliable, scalable, and cost-efficient AI applications.
 - [Predibase](https://predibase.com/) - Serverless LoRA Fine-Tuning and Serving for LLMs.
 
 ## Developer tools
 
 - [Jan Framework](https://jan.ai/docs/) - At its core, Jan is a **cross-platform, local-first and AI native** application framework that can be used to build anything.
-- [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI
+- [Pinecone](https://www.pinecone.io) - Long-Term Memory for AI.
 - [PoplarML](https://www.poplarml.com) - PoplarML enables the deployment of production-ready, scalable ML systems with minimal engineering effort.
-- [Datature](https://datature.io) - The All-in-One Platform to Build and Deploy Vision AI
-- [One AI](https://www.oneai.com/) - MAKING GENERATIVE AI BUSINESS-READY
-- [Gooey.AI](https://gooey.ai/) - Create Your Own No Code AI Workflows
-- [Mixo.io](https://mixo.io/?via=futurepedia) - AI website builder
+- [Datature](https://datature.io) - The All-in-One Platform to Build and Deploy Vision AI.
+- [One AI](https://www.oneai.com/) - MAKING GENERATIVE AI BUSINESS-READY.
+- [Gooey.AI](https://gooey.ai/) - Create Your Own No Code AI Workflows.
+- [Mixo.io](https://mixo.io/?via=futurepedia) - AI website builder.
 - [Safurai](https://www.safurai.com) - AI Code Assistant that saves you time in changing, optimizing, and searching code.
 - [GitFluence](https://www.gitfluence.com) - The AI-driven solution that helps you quickly find the right command. Get started with Git Command Generator today and save time.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
@@ -68,20 +68,21 @@ Your contributions are always welcome!
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
-- [trypromptly](https://trypromptly.com/) - Create AI Apps & Chatbots in Minutes
+- [trypromptly](https://trypromptly.com/) - Create AI Apps & Chatbots in Minutes.
 - [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
+- [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format.
 
 ## User Tools
 - [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
 
 ## Agents
 
-- [SuperAGI](https://superagi.com/) - Opensource AGI Infrastructure
+- [SuperAGI](https://superagi.com/) - Opensource AGI Infrastructure.
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Baby AGI is an autonomous AI agent developed using Python that operates through OpenAI and Pinecone APIs.
 - [AgentGPT](https://agentgpt.reworkd.ai/) -Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [HyperWrite](https://www.hyperwriteai.com/) - HyperWrite helps you work smarter, faster, and with ease.
-- [AI Agents](https://aiagent.app/) - AI Agent that Power Up Your Productivity
+- [AI Agents](https://aiagent.app/) - AI Agent that Power Up Your Productivity.
 - [AgentRunner.ai](https://www.agentrunner.ai) - Leverage the power of GPT-4 to create and train fully autonomous AI agents.
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
@@ -95,9 +96,9 @@ Your contributions are always welcome!
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [BMTrain](https://github.com/OpenBMB/BMTrain) - Efficient Training for Big Models.
 - [Alpa](https://github.com/alpa-projects/alpa) - Alpa is a system for training and serving large-scale neural networks.
-- [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+- [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale.
 - [Ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models.
-- [Nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
+- [Nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training.
 - [TRL](https://github.com/huggingface/trl) - Language model alignment with reinforcement learning.
 - [PEFT](https://github.com/huggingface/peft) - Parameter efficient fine-tuning (LoRA, DoRA, model merger and more)
 
@@ -105,9 +106,9 @@ Your contributions are always welcome!
 
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released.
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner.
-- [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models
+- [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) - An Automatic Evaluator for Instruction-following Language Models.
 - [LLM-Leaderboard-streamlit](https://llm-leaderboard.streamlit.app/) - A joint community effort to create one central leaderboard for LLMs.
-- [lmsys.org](https://chat.lmsys.org/) - Benchmarking LLMs in the Wild with Elo Ratings
+- [lmsys.org](https://chat.lmsys.org/) - Benchmarking LLMs in the Wild with Elo Ratings.
 
 ## Research
 
