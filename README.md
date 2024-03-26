@@ -87,6 +87,7 @@ Your contributions are always welcome!
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
+- [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 
 ## Training
 
@@ -135,3 +136,4 @@ Your contributions are always welcome!
 - [oobabooga](https://www.reddit.com/r/Oobabooga/)
 - [GPT4](https://www.reddit.com/r/GPT4/)
 - [Artificial Intelligence](https://www.reddit.com/r/artificial/)
+- [CrewAI](https://discord.com/invite/X4JWnZnxPb)
