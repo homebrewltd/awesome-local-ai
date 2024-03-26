@@ -15,6 +15,7 @@ Your contributions are always welcome!
 | [LoLLMS](https://github.com/ParisNeo/lollms)                    | - Lord of Large Language Models Web User Interface.                                  | Nearly ALL              | Both            | ✅  | Python      | Text-Gen      |
 | [ExLlama](https://github.com/turboderp/exllama)                 | - A more memory-efficient rewrite of the HF transformers implementation of Llama     | AutoGPTQ/GPTQ           | GPU             | ✅  | Python/C++  | Text-Gen      |
 | [vLLM](https://github.com/vllm-project/vllm)                    | - vLLM is a fast and easy-to-use library for LLM inference and serving.              | GGML/GGUF               | Both            | ❌  | Python      | Text-Gen      |
+| [SGLang](https://github.com/sgl-project/sglang)                 | - 3-5x higher throughput than vLLM (Control flow, RadixAttention, KV cache reuse)    | Safetensor / AWQ / GPTQ | GPU             | ❌  | Python      | Text-Gen      |
 | [LmDeploy](https://github.com/InternLM/lmdeploy)                | - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.                | Pytorch / Turbomind     | Both            | ❌  | Python/C++  | Text-Gen      |
 | [Tensorrt-llm](https://github.com/NVIDIA/TensorRT-LLM)          | - Inference efficiently on NVIDIA GPUs                                               | Python / C++ runtimes   | Both            | ❌  | Python/C++  | Text-Gen      |
 | [CTransformers](https://github.com/marella/ctransformers)       | - Python bindings for the Transformer models implemented in C/C++ using GGML library | GGML/GPTQ               | Both            | ❌  | C/C++       | Text-Gen      |
@@ -22,6 +23,7 @@ Your contributions are always welcome!
 | [llama2.rs](https://github.com/srush/llama2.rs)                 | - A fast llama2 decoder in pure Rust                                                 | GPTQ                    | CPU             | ❌  | Rust        | Text-Gen      |
 | [ExLlamaV2](https://github.com/turboderp/exllamav2)             | - A fast inference library for running LLMs locally on modern consumer-class GPUs    | GPTQ/EXL2               | GPU             | ❌  | Python/C++  | Text-Gen      |
 | [LoRAX](https://github.com/predibase/lorax)                     | - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs                | Safetensor / AWQ / GPTQ | GPU             | ❌  | Python/Rust | Text-Gen      |
+| [text-generation-inference](https://github.com/huggingface/text-generation-inference)| - Inference serving toolbox with optimized kernels for each LLM architecture                | Safetensors / AWQ / GPTQ | Both             | ❌  | Python/Rust | Text-Gen      |
 
 ## Inference UI
 
@@ -38,8 +40,10 @@ Your contributions are always welcome!
 - [FuLLMetalAi](https://www.fullmetal.ai/) - Fullmetal.Ai is a distributed network of self-hosted Large Language Models (LLMs).
 - [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
+- [Wordflow](https://github.com/poloclub/wordflow) - Run, share, and discover AI prompts in your browsers
 - [petals](https://github.com/bigscience-workshop/petals) - Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
 - [ChatUI](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app.
+- [AI-Mask](https://github.com/pacoccino/ai-mask) - Browser extension to provide model inference to web apps. Backed by web-llm and transformers.js
 
 ## Platforms / full solutions
 
@@ -68,6 +72,9 @@ Your contributions are always welcome!
 - [BentoML](https://www.bentoml.com/) - BentoML is the platform for software engineers to build AI products.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format.
 
+## User Tools
+- [llmcord.py](https://github.com/jakobdylanc/discord-llm-chatbot) - Discord LLM Chatbot - Talk to LLMs with your friends!
+
 ## Agents
 
 - [SuperAGI](https://superagi.com/) - Opensource AGI Infrastructure.
@@ -81,6 +88,7 @@ Your contributions are always welcome!
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - Let language models run code. Have your agent write and execute code.
+- [CrewAI](https://crewai.io) - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 
 ## Training
 
@@ -91,6 +99,8 @@ Your contributions are always welcome!
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale.
 - [Ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models.
 - [Nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training.
+- [TRL](https://github.com/huggingface/trl) - Language model alignment with reinforcement learning.
+- [PEFT](https://github.com/huggingface/peft) - Parameter efficient fine-tuning (LoRA, DoRA, model merger and more)
 
 ## LLM Leaderboard
 
@@ -127,3 +137,4 @@ Your contributions are always welcome!
 - [oobabooga](https://www.reddit.com/r/Oobabooga/)
 - [GPT4](https://www.reddit.com/r/GPT4/)
 - [Artificial Intelligence](https://www.reddit.com/r/artificial/)
+- [CrewAI](https://discord.com/invite/X4JWnZnxPb)
