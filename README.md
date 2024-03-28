@@ -4,6 +4,10 @@ If you tried [Jan Desktop](https://github.com/janhq/jan?tab=readme-ov-file#downl
 
 Your contributions are always welcome!
 
+## Lists
+- [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
+- [llama-police](https://huyenchip.com/llama-police.html) - A list of Open Source LLM Tools from [Chip Huyen](https://huyenchip.com)
+
 ## Inference Engine
 
 | Repository                                                      | Description                                                                          | Supported model formats | CPU/GPU Support | UI  | language    | Platform Type |
@@ -27,7 +31,6 @@ Your contributions are always welcome!
 
 ## Inference UI
 
-- [awesome-local-llms](https://github.com/vince-lam/awesome-local-llms) - Table of open-source local LLM inference projects with their GitHub metrics.
 - [oobabooga](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs.
 - [LocalAI](https://github.com/go-skynet/LocalAI) - LocalAI is a drop-in replacement REST API that’s compatible with OpenAI API specifications for local inferencing.
