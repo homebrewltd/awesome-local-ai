@@ -49,6 +49,7 @@ Your contributions are always welcome!
 - [AI-Mask](https://github.com/pacoccino/ai-mask) - Browser extension to provide model inference to web apps. Backed by web-llm and transformers.js
 - [everything-rag](https://github.com/AstraBert/everything-rag) - Interact with (virtually) any LLM on Hugging Face Hub with an asy-to-use, 100% local Gradio chatbot.
 - [LmScript](https://github.com/lucasavila00/LmScript/) - UI for SGLang and Outlines
+- [HammerAI](https://www.hammerai.com/desktop) - Simple character-chat interface to run LLMs on Windows, Mac, and Linux. Uses Ollama under the hood and is offline, free to chat, and requires zero configuration.
 
 ## Platforms / full solutions
 
